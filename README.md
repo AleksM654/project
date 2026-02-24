@@ -1,3 +1,3 @@
 # Math for Developers
-Project related notes or research ideas 
+Project related notes or research ideas and
 Final project.
